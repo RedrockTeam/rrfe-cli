@@ -7,6 +7,8 @@
     <a href="https://www.npmjs.com/package/@redrockfe/rrfe-cli"><img src=https://img.shields.io/npm/v/@redrockfe/rrfe-cli.svg  alt="npm package"></a>
 </p>
 
+已废弃该项目，现在改为[rrfe](https://github.com/RedrockTeam/rrfe)
+
 ## feature
 
 - 💡 实验 vite 构建
